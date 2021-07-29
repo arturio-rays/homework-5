@@ -50,6 +50,7 @@ html, body, p, ul {
     line-height: normal;
     padding: 40px;
 }
-span {
+span a {
     color: #19c8fa;
+    text-decoration: none;
 }
