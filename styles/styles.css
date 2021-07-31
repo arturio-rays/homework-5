@@ -6,6 +6,10 @@ html, body, p, ul {
 * {
     box-sizing: border-box;
 }
+img {
+    display: block;
+    width: 100%;
+}
 .container {
     width: 100%;
     max-width: 1200px;
